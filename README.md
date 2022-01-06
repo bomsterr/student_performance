@@ -7,3 +7,9 @@ It is pivotal to encourage and support worldwide education, especially those of 
 
 # Information about the data
 This dataset is fictional. This contains each student's performance in Math, Reading, and Writing score. The dataset is fictional and contains the variety of personal, social, and economic factors that may influence the test scores. 
+
+# 4 types of different models
+1. random forest
+2. linear regression
+3. lasso
+4. ridge
